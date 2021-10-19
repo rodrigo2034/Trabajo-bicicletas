@@ -117,7 +117,7 @@ background-repeat: no-repeat;
     background-repeat: no-repeat;
 }
 
-/*                        */
+/*           INICIO DEL FOOTER             */
 
 footer {
     width: 100%;
@@ -239,3 +239,42 @@ max-width: 400px;
     }
 }
     
+/* FIN DEL FOOTER */
+
+/* INICIO DEL REGISTRO */
+
+
+
+.form{
+    border-radius: 10px;
+    padding: 1%;
+    margin: 64px;
+}
+
+.rounded2{
+    border-top: 5px solid;
+    border-radius: 10px;
+    color: #99cccc;
+    margin-left: 5%;
+    margin-right: 5%;
+  
+}
+
+.colorbutton{
+    background-color: #99cccc;
+    border: white;
+}
+
+.colorbutton:hover{
+    background-color: white;
+    color: #99cccc;
+    border: #99cccc;
+}
+
+.formulario label{
+    color: #99cccc;
+    } 
+
+.colorLetra{
+    color: #99cccc;
+}
