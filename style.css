@@ -243,8 +243,6 @@ max-width: 400px;
 
 /* INICIO DEL REGISTRO */
 
-
-
 .form{
     border-radius: 10px;
     padding: 1%;
@@ -263,6 +261,7 @@ max-width: 400px;
 .colorbutton{
     background-color: #99cccc;
     border: white;
+    color: white;
 }
 
 .colorbutton:hover{
@@ -277,4 +276,8 @@ max-width: 400px;
 
 .colorLetra{
     color: #99cccc;
+}
+
+.formularioRegistro {
+    margin: 28px;
 }
